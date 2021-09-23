@@ -13,7 +13,7 @@ source(reconstrucciones_Mk_DR.Tesis.R)
 soruce(econstrucciones_Parsimonia.Tesis.R)
 
 # Transformación de los resultados de Máxima verosimilitud y Parsimonia para facilitar las comparaciones.
-source(sensibilidad-0.Discretizaciones y tales.Tesis.R)
+source(sensibilidad-0.Discretizaciones.Tesis.R)
 
 # Comparaciones entre los resultados de las reconstrucciones según la codificación de estado.
 source(sensibilidad-1.Codificaciones.Tesis.R)
